@@ -1,4 +1,4 @@
-# ARCHISMAT - Architecture is Material
+ARCHISMAT - Architecture is Material
 
-# Repository of ARCHISMAT Project: an architects-oriented API for materials creation
+Repository of ARCHISMAT Project: an architects-oriented API for materials creation
 
